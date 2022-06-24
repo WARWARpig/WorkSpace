@@ -7,6 +7,6 @@ package com.atguigu.pojo;
 public class HellloWorld {
     public static void main(String[] args) {
         System.out.println("快乐Java");
-
+        System.out.println("hot-fix");
     }
 }
